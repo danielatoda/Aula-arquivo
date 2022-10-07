@@ -9,3 +9,6 @@ def arquivo():
   file.seek(0,0)
   file.close()
 arquivo()
+
+print("Novo commit")
+print("novo do novo ")
